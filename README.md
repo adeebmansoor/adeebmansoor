@@ -1,5 +1,5 @@
 <h1 align="center">
-  💫 Hi there! I'm <span style="color:#e31b6d"><i><b><a href="#">Adeeb Mansoor</a></b></i></span> 👋
+  💫 Hi there! I'm <span style="color:#e31b6d"><i><b><a>Adeeb Mansoor</a></b></i></span> 👋
 </h1>
 <p align="center">
   <b>Software Developer | AI/ML Engineer | Python • Java • JavaScript</b>
