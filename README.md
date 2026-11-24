@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   💫 Hi there! I'm <i><b>Adeeb Mansoor</b></i> 👋
-</h1>
+</h1> -->
 <p align="center">
   <b>Software Developer | AI/ML Engineer | Python • Java • JavaScript</b>
 </p>
