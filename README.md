@@ -1,12 +1,12 @@
 <h1 align="center">
-  💫 Hi there! I'm <span style="color:#e31b6d"><i><b><a>Adeeb Mansoor</a></b></i></span> 👋
+  💫 Hi there! I'm <i><b>Adeeb Mansoor</b></i> 👋
 </h1>
 <p align="center">
   <b>Software Developer | AI/ML Engineer | Python • Java • JavaScript</b>
 </p>
 <p align="center"><i>“STRIVE NOT TO BE A SUCCESS. BUT RATHER TO BE OF VALUE.”</i></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E31B6D&center=true&width=650&lines=Hi%2C+I'm+Adeeb+Mansoor!;Software+Developer+%26+AI%2FML+Engineer;Building+LLM+Apps+%26+Full-Stack+Products;National-Level+Footballer+%7C+Problem+Solver;حلم+•+صدق+•+جسارة+•+فعل" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E31B6D&center=true&width=650&lines=Hi%2C+I'm+Adeeb+Mansoor!;Software+Developer+%26+AI%2FML+Engineer;Building+LLM+Apps+%26+Full-Stack+Products;National-Level+Footballer+%7C+Problem+Solver;حلم+•+صدق+•+جسارة+•+فعل" alt="Typing SVG" />
 </p>
 
 
